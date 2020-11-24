@@ -1,0 +1,46 @@
+.fo{
+    margin: 300px;
+}
+.li{
+    background-color: chartreuse;
+    color: chocolate;
+    padding: 30px;
+}
+body{
+    background-color: darkblue;
+}
+.cl{
+    height: 100vh;
+    background-color: darkgoldenrod;
+}
+.cont{
+    margin:50px;
+    padding: 100px;
+    color: darkmagenta;
+}
+.lo{
+    margin-top:10px;
+    margin-left: 70px;
+    padding: 20px;
+    padding-top: 5px;
+    height: 15px;
+    background-color: deeppink;
+    
+    
+}
+
+.reg{
+    margin-top:10px;
+    margin-left: 20px;
+    padding: 20px;
+    padding-top: 5px;
+    height: 15px;
+    background-color: deeppink;
+
+}
+.reg a{
+    text-decoration: none;
+}
+.lo:hover{
+    color: gold;
+}

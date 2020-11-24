@@ -1,0 +1,45 @@
+.fi{
+    height: 500px;
+    
+}
+.le{
+    color: blue;
+    
+}
+body{
+    background-color: brown;
+}
+.se{
+    width: 110px;
+    
+    
+
+    
+}
+.su{
+    height: 50px;
+    width:100px;
+    color:green;
+    background-color: hotpink;
+    margin: 10px;
+}
+.su:hover{
+    color: red;
+}
+.btn{
+    
+    height: 50px;
+    width: 100px;
+    color: green;
+    background-color: hotpink ;
+    
+}
+.btn a{
+    text-decoration: none;
+}
+.btn:hover{
+    color: red;
+}
+.ii{
+    display: inline-block;
+}

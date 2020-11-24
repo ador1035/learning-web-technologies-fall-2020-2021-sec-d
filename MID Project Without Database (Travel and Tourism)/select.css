@@ -1,0 +1,24 @@
+.fi{
+    height: 500px;
+    color: hotpink;
+}
+body{
+    background-color: maroon;
+}
+.ar{
+    display: inline;
+    
+}
+.ar a{
+    text-decoration: none;
+}
+.se{
+    background-color: blue;
+    color: chocolate;
+
+}
+.se:hover{
+    background-color: red;
+    color: black;
+    
+}
